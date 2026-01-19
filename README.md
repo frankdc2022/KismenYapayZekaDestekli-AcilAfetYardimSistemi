@@ -31,6 +31,13 @@ Proje, verilerin kaybolmaması için `nlohmann/json` kütüphanesini kullanır.
 * Program kapatılırken tüm kuyruklar `veri.json` dosyasına serileştirilir (Serialization).
 * Program açıldığında veriler tekrar uygun veri yapılarına (Heap/Queue) yüklenir (Deserialization).
 
+## 👨‍💻 Geliştirici (Developer)
+
+**[Muhammet Aslan]**
+* Software Engineering Student
+* [LinkedIn Profil Linkim] : (https://www.linkedin.com/in/muhammet-aslan-1890a4350/)
+* [Email Adresim] : muhammet.aslan.dev@gmail.com
+
 ## 💻 Kurulum ve Derleme (How to Build)
 
 Projede harici `json.hpp` kütüphanesi kullanılmıştır. Derlemek için C++11 veya üzeri standart gereklidir.
@@ -41,9 +48,3 @@ g++ main.cpp -o disaster_system -std=c++11
 
 # Çalıştır
 ./disaster_system
-## 👨‍💻 Geliştirici (Developer)
-
-**[Muhammet Aslan]**
-* Software Engineering Student
-* [LinkedIn Profil Linkim] : (https://www.linkedin.com/in/muhammet-aslan-1890a4350/)
-* [Email Adresim] : muhammet.aslan.dev@gmail.com
