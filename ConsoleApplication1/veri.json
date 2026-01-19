@@ -1,0 +1,76 @@
+{
+    "acil": [
+        {
+            "aciliyet": 9,
+            "id": 11,
+            "sehir": "erzurum",
+            "tur": "yangin",
+            "zaman": "12.12.2025 19:55"
+        },
+        {
+            "aciliyet": 8,
+            "id": 4,
+            "sehir": "antalya",
+            "tur": "firtina",
+            "zaman": "01.09.2013 18:10"
+        },
+        {
+            "aciliyet": 8,
+            "id": 3,
+            "sehir": "izmir",
+            "tur": "sel",
+            "zaman": "11.07.2012 09:20"
+        },
+        {
+            "aciliyet": 8,
+            "id": 2,
+            "sehir": "mersin",
+            "tur": "sel",
+            "zaman": "12.11.2009 12:56"
+        },
+        {
+            "aciliyet": 7,
+            "id": 7,
+            "sehir": "trabzon",
+            "tur": "sel",
+            "zaman": "19.04.2016 13:15"
+        },
+        {
+            "aciliyet": 7,
+            "id": 10,
+            "sehir": "rize",
+            "tur": "sel",
+            "zaman": "14.10.2019 07:25"
+        },
+        {
+            "aciliyet": 6,
+            "id": 6,
+            "sehir": "bursa",
+            "tur": "heyelan",
+            "zaman": "10.02.2015 06:50"
+        },
+        {
+            "aciliyet": 6,
+            "id": 5,
+            "sehir": "adana",
+            "tur": "yangin",
+            "zaman": "23.11.2014 22:35"
+        },
+        {
+            "aciliyet": 6,
+            "id": 1,
+            "sehir": "erzurum",
+            "tur": "sel",
+            "zaman": "12.08.2008 12.44"
+        }
+    ],
+    "normal": [
+        {
+            "aciliyet": 4,
+            "id": 12,
+            "sehir": "erzurum",
+            "tur": "sel",
+            "zaman": "12.12.2025 12:22"
+        }
+    ]
+}
