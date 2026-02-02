@@ -1,2 +1,2 @@
 # Mis-Proyectos
-proyectos web
+proyectos web para el curso de informatica IV
